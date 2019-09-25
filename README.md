@@ -4,7 +4,8 @@
 
 
 ## Web Crawling
-   * python
+   * python 
+     * 네이버 영화평점 Crawling 
      
 
 
